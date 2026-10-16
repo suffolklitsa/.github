@@ -7,6 +7,7 @@ We run events on the law of technology and build tools for law students and stud
 
 - [**suffolklitsa.org**](https://github.com/suffolklitsa/suffolklitsa.org): our website, with Boston legal tech events, competitions and resources for Suffolk students.
 - [**club-kit**](https://github.com/suffolklitsa/club-kit): tools any student organization can use to run events, make flyers, collect RSVPs and keep a member list.
+- **suffolk-chatbot** (private): the Suffolk student assistant, which answers questions about deadlines, courses, clinics and student services from Suffolk's public pages. Build members get access on request.
 
 ## Get involved
 
