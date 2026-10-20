@@ -16,8 +16,11 @@ We run events on the law of technology and build tools for law students and stud
 
 - [**suffolklitsa.org**](https://github.com/suffolklitsa/suffolklitsa.org): our website, with Boston legal tech events, competitions and resources for Suffolk students.
 - [**club-kit**](https://github.com/suffolklitsa/club-kit): tools any student organization can use to run events, make flyers, collect RSVPs and keep a member list.
+- [**handbook**](https://github.com/suffolklitsa/handbook): how LITSA's Build work happens, for members with or without coding experience.
 - [**design-system**](https://github.com/suffolklitsa/design-system): the colors, type, spacing and components every LITSA project shares.
 - **suffolk-chatbot** (private): the Suffolk student assistant, which answers questions about deadlines, courses, clinics and student services from Suffolk's public pages. Build members get access on request.
+
+**New to GitHub?** Start with the [handbook](https://github.com/suffolklitsa/handbook): an account, Codespaces, your first pull request, and how to work with AI coding agents.
 
 **Where to start:** every repo has issues labeled `good first issue` and `no code needed`, each saying what done looks like and where to begin. The [LITSA Build board](https://github.com/orgs/suffolklitsa/projects/1) shows them all.
 
